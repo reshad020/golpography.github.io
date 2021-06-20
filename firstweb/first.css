@@ -1,0 +1,60 @@
+h1{
+    padding-top: 10%;
+    text-align: center;
+    
+    
+    color: steelblue;
+
+}
+.blog{
+    background-color: rgba(0, 0, 0, 0.2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.design{
+    color: yellowgreen;
+    font-size: 100%;
+    
+}
+.logo{
+    height: 18px;
+    width: 18px;
+}
+.none{
+    background-color: transparent;
+}
+#decor{
+    color: steelblue;
+    text-align: center;
+    
+}
+a{
+    text-align: center;
+}
+.blogText{
+    color:rgb(92, 33, 33);
+}
+
+.card{
+    margin: 40px;
+}
+.head1{
+    text-align: center;
+    background-color: rgb(218, 214, 214);
+}
+.img1{
+    height: 300px;
+    width:480px;
+    
+
+}
+.text1{
+    text-align: center;
+}
+.waniya{
+    height: 1000px;
+    width: 650px;
+}
+.next{
+    text-align: center;
+}
